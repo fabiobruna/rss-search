@@ -1,0 +1,4 @@
+http://www.thehindu.com/?service=rss
+http://feeds.feedburner.com/ndtv/Lsgd
+http://indianexpress.com/section/india/feed/
+http://feeds.hindustantimes.com/HT-India
