@@ -71,7 +71,8 @@ def main(urls, keywords):
             print 'done'
 
     else:
-        print 'no results found.\n try again with more keywords and urls'
+        print 'no results found'
+        print 'try again with more keywords and urls'
         
         
 
